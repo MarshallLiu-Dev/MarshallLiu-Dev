@@ -16,8 +16,6 @@
 <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 <br>
-<img align="center" alt="gif" src="https://cdn.discordapp.com/attachments/856644052039368716/1066000119167729744/gif_GitHub.gif ">
-<br>
 
 É melhor alguém odiá-lo por quem você é, do que amá-lo pelo que você não é. 🙂
 
