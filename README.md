@@ -3,9 +3,8 @@
 ### Olá! eu sou o Paulo Henrique Morais 😄👋✨
 
 
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarshallLiu-Dev&theme=react&line_height=40&hide=css"/> </a>
 
-
-![MarshallLiu-Dev's GitHub stats])<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarshallLiu-DevM&theme=react&line_height=40&hide=css"/> </a>
 
 
 ### Tecnologias que uso no meu dia 🧑🏻‍💻
