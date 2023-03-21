@@ -3,7 +3,7 @@
 ### Olá! eu sou o Paulo Henrique Morais 😄👋✨
 
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarshallLiu-Dev&theme=react&line_height=40&hide=css"/> </a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshallLiu-Dev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
