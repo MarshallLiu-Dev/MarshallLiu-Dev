@@ -5,7 +5,7 @@
 
 
 
-![MarshallLiu-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshallLiu-Dev&show_icons=true&theme=radical)
+![MarshallLiu-Dev's GitHub stats])<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarshallLiu-DevM&theme=react&line_height=40&hide=css"/> </a>
 
 
 ### Tecnologias que uso no meu dia 🧑🏻‍💻
